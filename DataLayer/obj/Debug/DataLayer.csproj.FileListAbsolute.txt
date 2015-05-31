@@ -1,0 +1,13 @@
+D:\New folder\Society_Maharanapratab\DataLayer\bin\Debug\DataLayer.dll
+D:\New folder\Society_Maharanapratab\DataLayer\bin\Debug\DataLayer.pdb
+D:\New folder\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.dll
+D:\New folder\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.pdb
+E:\MPS\Society_Maharanapratab\DataLayer\bin\Debug\DataLayer.dll
+E:\MPS\Society_Maharanapratab\DataLayer\bin\Debug\DataLayer.pdb
+E:\MPS\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.dll
+E:\MPS\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\steve\Desktop\Society_Maharanapratab\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\steve\Desktop\Society_Maharanapratab\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\steve\Desktop\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\steve\Desktop\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\steve\Desktop\Society_Maharanapratab\DataLayer\obj\Debug\DataLayer.pdb
